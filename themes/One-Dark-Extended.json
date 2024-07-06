@@ -1,11 +1,11 @@
 {
-  "name": "One Dark Vue Extended",
+  "name": "One Dark Extended",
   "author": "One Dark Pro and uonick",
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
   "description": "One Dark Pro Extended and fixed",
   "themes": [
     {
-      "name": "One Dark Boolean",
+      "name": "One Dark Extended",
       "appearance": "dark",
       "style": {
         "border": "#3e4452",
