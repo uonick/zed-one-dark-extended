@@ -1,6 +1,6 @@
 id = "one-dark-extended"
 name = "One Dark Extended Theme"
-version = "0.0.1"
+version = "0.0.2.2"
 schema_version = 1
 authors = ["uonick <themes@uonick.com>"]
 description = "One Dark Extended theme for Zed"
