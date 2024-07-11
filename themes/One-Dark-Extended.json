@@ -1,11 +1,11 @@
 {
-  "name": "One Dark Extended",
-  "author": "One Dark Pro and uonick",
+  "name": "One Dark Pro Extended",
+  "author": "uonick",
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "description": "One Dark Pro Extended and fixed",
+  "description": "🫶 One Dark Pro Theme Extended and fixed 💪",
   "themes": [
     {
-      "name": "One Dark Extended",
+      "name": "One Dark Pro Extended",
       "appearance": "dark",
       "style": {
         "border": "#3e4452",
@@ -49,7 +49,7 @@
         "panel.focused_border": null,
         "pane.focused_border": null,
         "selection.background": "#2e343f",
-        "scrollbar_thumb.background": "#4e5666",
+        "scrollbar.thumb.background": "#4e5666",
         "scrollbar.thumb.hover_background": "#5a6375",
         "scrollbar.thumb.border": "#4e5666",
         "scrollbar.track.background": "#23272e",
